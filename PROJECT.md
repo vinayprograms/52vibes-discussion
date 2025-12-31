@@ -1,8 +1,8 @@
 # 52vibes: Year-Long AI Agent Collaboration Study
 
-**Start Date:** January 1, 2025 (Thursday)  
-**End Date:** December 31, 2025  
-**Domain:** https://52vibes.dev  
+**Start Date:** January 1, 2026 (Thursday)
+**End Date:** December 30, 2026 (Wednesday)
+**Domain:** https://52vibes.dev
 **Repository:** https://github.com/vinayprograms/52vibes-blog (blog)
 
 ---
@@ -15,7 +15,7 @@ Push the limits of AI agents to identify their limits, shortcomings, and missing
 
 ## Audience
 
-- Developers
+- Developers, Software Engineers
 - AI Researchers
 - Product Managers
 
@@ -100,9 +100,9 @@ When a project fails or partially ships:
 
 ## Themes
 
-| Quarter | Weeks | Theme |
-|---------|-------|-------|
-| Q1 | 1-13 | Agentic Infrastructure |
-| Q2 | 14-26 | Production Tools |
-| Q3 | 27-39 | Complex Workflows |
-| Q4 | 40-52 | Synthesis & Edge Cases |
+| Quarter | Weeks | Dates | Theme |
+|---------|-------|-------|-------|
+| Q1 | 1-13 | Jan 1 - Apr 1 | Agentic Infrastructure |
+| Q2 | 14-26 | Apr 2 - Jul 1 | Production Tools |
+| Q3 | 27-39 | Jul 2 - Sep 30 | Complex Workflows |
+| Q4 | 40-52 | Oct 1 - Dec 30 | Synthesis & Edge Cases |

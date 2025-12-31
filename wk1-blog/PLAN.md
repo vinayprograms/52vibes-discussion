@@ -61,10 +61,15 @@ GitHub repo (markdown)
 ## Open Questions (Resolve Day 1)
 
 1. **Theme approach** - Build custom theme from scratch, or start with minimal Hugo theme and strip it down?
+    > Custom theme. Must be one light and one dark theme. I care about the layout and the fonts used.
 2. **Content structure** - Just blog posts, or also pages like "About", "Weekly Index"?
+    > This will be decided once project starts.
 3. **Writing workflow** - Draft posts in repo directly, or separate drafts location?
-4. **Domain setup** - Is `52vibes.dev` already pointing to Cloudflare, or need DNS config?
-5. **First post** - Include writing/publishing an intro post, or just infrastructure?
+    > Draft posts in repo.
+5. **Domain setup** - Is `52vibes.dev` already pointing to Cloudflare, or need DNS config?
+    > The domain was bought from Cloudflare. So I have to use CF to set it up too.
+6. **First post** - Include writing/publishing an intro post, or just infrastructure?
+    > Both.
 
 ---
 
